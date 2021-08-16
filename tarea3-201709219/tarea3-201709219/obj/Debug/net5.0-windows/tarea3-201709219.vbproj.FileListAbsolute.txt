@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\documentos de clase\Progra 2\tarea3-201709219\tarea3-201709219\obj\Debug\net5.0-windows\tarea3-201709219.vbprojAssemblyReference.cache
+C:\Users\DELL\Desktop\documentos de clase\Progra 2\tarea3-201709219\tarea3-201709219\obj\Debug\net5.0-windows\tarea3_201709219.Calcular.resources
+C:\Users\DELL\Desktop\documentos de clase\Progra 2\tarea3-201709219\tarea3-201709219\obj\Debug\net5.0-windows\tarea3-201709219.vbproj.GenerateResource.cache
+C:\Users\DELL\Desktop\documentos de clase\Progra 2\tarea3-201709219\tarea3-201709219\obj\Debug\net5.0-windows\tarea3-201709219.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\documentos de clase\Progra 2\tarea3-201709219\tarea3-201709219\obj\Debug\net5.0-windows\tarea3-201709219.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\documentos de clase\Progra 2\tarea3-201709219\tarea3-201709219\obj\Debug\net5.0-windows\tarea3-201709219.AssemblyInfo.vb
+C:\Users\DELL\Desktop\documentos de clase\Progra 2\tarea3-201709219\tarea3-201709219\obj\Debug\net5.0-windows\tarea3-201709219.vbproj.CoreCompileInputs.cache
+C:\Users\caarl\OneDrive\Escritorio\tarea3-201709219\tarea3-201709219\obj\Debug\net5.0-windows\tarea3-201709219.vbprojAssemblyReference.cache
+C:\Users\caarl\OneDrive\Escritorio\tarea3-201709219\tarea3-201709219\obj\Debug\net5.0-windows\tarea3_201709219.Calcular.resources
+C:\Users\caarl\OneDrive\Escritorio\tarea3-201709219\tarea3-201709219\obj\Debug\net5.0-windows\tarea3-201709219.vbproj.GenerateResource.cache
+C:\Users\caarl\OneDrive\Escritorio\tarea3-201709219\tarea3-201709219\obj\Debug\net5.0-windows\tarea3-201709219.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caarl\OneDrive\Escritorio\tarea3-201709219\tarea3-201709219\obj\Debug\net5.0-windows\tarea3-201709219.AssemblyInfoInputs.cache
+C:\Users\caarl\OneDrive\Escritorio\tarea3-201709219\tarea3-201709219\obj\Debug\net5.0-windows\tarea3-201709219.AssemblyInfo.vb
+C:\Users\caarl\OneDrive\Escritorio\tarea3-201709219\tarea3-201709219\obj\Debug\net5.0-windows\tarea3-201709219.vbproj.CoreCompileInputs.cache
+C:\Users\caarl\OneDrive\Escritorio\tarea3-201709219\tarea3-201709219\obj\Debug\net5.0-windows\tarea3_201709219.Form1.resources
