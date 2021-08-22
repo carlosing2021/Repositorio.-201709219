@@ -1,0 +1,18 @@
+C:\Users\caarl\OneDrive\Escritorio\INGUSAC 2021\progra 2 segundos\Tarea Preparatoria\Tarea Preparatoria\obj\Debug\net5.0-windows\Tarea Preparatoria.vbprojAssemblyReference.cache
+C:\Users\caarl\OneDrive\Escritorio\INGUSAC 2021\progra 2 segundos\Tarea Preparatoria\Tarea Preparatoria\obj\Debug\net5.0-windows\Tarea_Preparatoria.Form1.resources
+C:\Users\caarl\OneDrive\Escritorio\INGUSAC 2021\progra 2 segundos\Tarea Preparatoria\Tarea Preparatoria\obj\Debug\net5.0-windows\Tarea Preparatoria.vbproj.GenerateResource.cache
+C:\Users\caarl\OneDrive\Escritorio\INGUSAC 2021\progra 2 segundos\Tarea Preparatoria\Tarea Preparatoria\obj\Debug\net5.0-windows\Tarea Preparatoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caarl\OneDrive\Escritorio\INGUSAC 2021\progra 2 segundos\Tarea Preparatoria\Tarea Preparatoria\obj\Debug\net5.0-windows\Tarea Preparatoria.AssemblyInfoInputs.cache
+C:\Users\caarl\OneDrive\Escritorio\INGUSAC 2021\progra 2 segundos\Tarea Preparatoria\Tarea Preparatoria\obj\Debug\net5.0-windows\Tarea Preparatoria.AssemblyInfo.vb
+C:\Users\caarl\OneDrive\Escritorio\INGUSAC 2021\progra 2 segundos\Tarea Preparatoria\Tarea Preparatoria\obj\Debug\net5.0-windows\Tarea Preparatoria.vbproj.CoreCompileInputs.cache
+C:\Users\caarl\OneDrive\Escritorio\INGUSAC 2021\progra 2 segundos\Tarea Preparatoria\Tarea Preparatoria\bin\Debug\net5.0-windows\Tarea Preparatoria.exe
+C:\Users\caarl\OneDrive\Escritorio\INGUSAC 2021\progra 2 segundos\Tarea Preparatoria\Tarea Preparatoria\bin\Debug\net5.0-windows\Tarea Preparatoria.deps.json
+C:\Users\caarl\OneDrive\Escritorio\INGUSAC 2021\progra 2 segundos\Tarea Preparatoria\Tarea Preparatoria\bin\Debug\net5.0-windows\Tarea Preparatoria.runtimeconfig.json
+C:\Users\caarl\OneDrive\Escritorio\INGUSAC 2021\progra 2 segundos\Tarea Preparatoria\Tarea Preparatoria\bin\Debug\net5.0-windows\Tarea Preparatoria.runtimeconfig.dev.json
+C:\Users\caarl\OneDrive\Escritorio\INGUSAC 2021\progra 2 segundos\Tarea Preparatoria\Tarea Preparatoria\bin\Debug\net5.0-windows\Tarea Preparatoria.dll
+C:\Users\caarl\OneDrive\Escritorio\INGUSAC 2021\progra 2 segundos\Tarea Preparatoria\Tarea Preparatoria\bin\Debug\net5.0-windows\ref\Tarea Preparatoria.dll
+C:\Users\caarl\OneDrive\Escritorio\INGUSAC 2021\progra 2 segundos\Tarea Preparatoria\Tarea Preparatoria\bin\Debug\net5.0-windows\Tarea Preparatoria.pdb
+C:\Users\caarl\OneDrive\Escritorio\INGUSAC 2021\progra 2 segundos\Tarea Preparatoria\Tarea Preparatoria\obj\Debug\net5.0-windows\Tarea Preparatoria.dll
+C:\Users\caarl\OneDrive\Escritorio\INGUSAC 2021\progra 2 segundos\Tarea Preparatoria\Tarea Preparatoria\obj\Debug\net5.0-windows\ref\Tarea Preparatoria.dll
+C:\Users\caarl\OneDrive\Escritorio\INGUSAC 2021\progra 2 segundos\Tarea Preparatoria\Tarea Preparatoria\obj\Debug\net5.0-windows\Tarea Preparatoria.pdb
+C:\Users\caarl\OneDrive\Escritorio\INGUSAC 2021\progra 2 segundos\Tarea Preparatoria\Tarea Preparatoria\obj\Debug\net5.0-windows\Tarea Preparatoria.genruntimeconfig.cache
