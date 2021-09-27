@@ -1,0 +1,12 @@
+C:\Users\caarl\source\repos\tarea preparatoria\tarea preparatoria\bin\Debug\tarea preparatoria.exe.config
+C:\Users\caarl\source\repos\tarea preparatoria\tarea preparatoria\bin\Debug\tarea preparatoria.exe
+C:\Users\caarl\source\repos\tarea preparatoria\tarea preparatoria\bin\Debug\tarea preparatoria.pdb
+C:\Users\caarl\source\repos\tarea preparatoria\tarea preparatoria\bin\Debug\tarea preparatoria.xml
+C:\Users\caarl\source\repos\tarea preparatoria\tarea preparatoria\obj\Debug\tarea preparatoria.vbprojAssemblyReference.cache
+C:\Users\caarl\source\repos\tarea preparatoria\tarea preparatoria\obj\Debug\tarea_preparatoria.Form1.resources
+C:\Users\caarl\source\repos\tarea preparatoria\tarea preparatoria\obj\Debug\tarea_preparatoria.Resources.resources
+C:\Users\caarl\source\repos\tarea preparatoria\tarea preparatoria\obj\Debug\tarea preparatoria.vbproj.GenerateResource.cache
+C:\Users\caarl\source\repos\tarea preparatoria\tarea preparatoria\obj\Debug\tarea preparatoria.vbproj.CoreCompileInputs.cache
+C:\Users\caarl\source\repos\tarea preparatoria\tarea preparatoria\obj\Debug\tarea preparatoria.exe
+C:\Users\caarl\source\repos\tarea preparatoria\tarea preparatoria\obj\Debug\tarea preparatoria.xml
+C:\Users\caarl\source\repos\tarea preparatoria\tarea preparatoria\obj\Debug\tarea preparatoria.pdb
