@@ -1,0 +1,12 @@
+C:\Users\DELL\source\repos\Tarea 8\Tarea 8\bin\Debug\Tarea 8.exe.config
+C:\Users\DELL\source\repos\Tarea 8\Tarea 8\bin\Debug\Tarea 8.exe
+C:\Users\DELL\source\repos\Tarea 8\Tarea 8\bin\Debug\Tarea 8.pdb
+C:\Users\DELL\source\repos\Tarea 8\Tarea 8\bin\Debug\Tarea 8.xml
+C:\Users\DELL\source\repos\Tarea 8\Tarea 8\obj\Debug\Tarea 8.vbprojAssemblyReference.cache
+C:\Users\DELL\source\repos\Tarea 8\Tarea 8\obj\Debug\Tarea_8.Form1.resources
+C:\Users\DELL\source\repos\Tarea 8\Tarea 8\obj\Debug\Tarea_8.Resources.resources
+C:\Users\DELL\source\repos\Tarea 8\Tarea 8\obj\Debug\Tarea 8.vbproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Tarea 8\Tarea 8\obj\Debug\Tarea 8.vbproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Tarea 8\Tarea 8\obj\Debug\Tarea 8.exe
+C:\Users\DELL\source\repos\Tarea 8\Tarea 8\obj\Debug\Tarea 8.xml
+C:\Users\DELL\source\repos\Tarea 8\Tarea 8\obj\Debug\Tarea 8.pdb
